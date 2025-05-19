@@ -37,7 +37,7 @@
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadsaquib/)
+- 💼 [LinkedIn]:linkedin.com/in/mohammad-saquib-0ab9452b8/
 - 📫 Email: saquibmohammad721@gmail.com
 
 ---
