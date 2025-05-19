@@ -38,8 +38,7 @@
 ### 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammadsaquib/)
-- 🧠 ORCID: [orcid.org/0000-0000-0000-0000](https://orcid.org) <!-- Replace with your real ORCID -->
-- 📫 Email: youremail@example.com
+- 📫 Email: saquibmohammad721@gmail.com
 
 ---
 
