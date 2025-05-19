@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year CS student interested in **Machine Learning** and **Data Analysis**
+- 🎓 Final year AI/ML student interested in **Machine Learning** and **Data Analysis**
 - 💡 Exploring the world of **Python, Pandas, NumPy, Matplotlib** and **Scikit-learn**
 - 📊 Currently working on a **Pneumonia Detection using Deep Learning** project
 - 🌍 I believe data isn't just numbers — it's stories waiting to be told
