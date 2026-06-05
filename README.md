@@ -2,16 +2,15 @@
 
 <h2 align="center">Hi 👋, I'm Mohammad Saquib</h2>
 <p align="center">
-  🌱 Aspiring Data Scientist & Analyst | Passionate about ML & Real-World Insights  
+  🌱 Data Scientist & Analyst | Passionate about ML & Real-World Insights  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year AI/ML student interested in **Machine Learning** and **Data Analysis**
-- 💡 Exploring the world of **Python, Pandas, NumPy, Matplotlib** and **Scikit-learn**
-- 📊 Currently working on a **Pneumonia Detection using Deep Learning** project
+- 🎓 AI Eng interested in **Machine Learning** and **Data Analysis**
+- 💡 Exploring the world of **Python, Pandas, NumPy, Matplotlib** ,**PowerBI** and **Scikit-learn**
 - 🌍 I believe data isn't just numbers — it's stories waiting to be told
 
 ---
